@@ -1,0 +1,2 @@
+# Myrite
+Halite AI project 
