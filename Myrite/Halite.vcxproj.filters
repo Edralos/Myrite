@@ -18,75 +18,75 @@
     <ClCompile Include="Myrite.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Documents\halite\Halite-III\starter_kits\C++\hlt\command.cpp">
+    <ClCompile Include="hlt\command.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Documents\halite\Halite-III\starter_kits\C++\hlt\constants.cpp">
+    <ClCompile Include="hlt\constants.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Documents\halite\Halite-III\starter_kits\C++\hlt\dropoff.cpp">
+    <ClCompile Include="hlt\dropoff.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Documents\halite\Halite-III\starter_kits\C++\hlt\game.cpp">
+    <ClCompile Include="hlt\game.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Documents\halite\Halite-III\starter_kits\C++\hlt\game_map.cpp">
+    <ClCompile Include="hlt\game_map.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Documents\halite\Halite-III\starter_kits\C++\hlt\log.cpp">
+    <ClCompile Include="hlt\log.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Documents\halite\Halite-III\starter_kits\C++\hlt\player.cpp">
+    <ClCompile Include="hlt\player.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Documents\halite\Halite-III\starter_kits\C++\hlt\ship.cpp">
+    <ClCompile Include="hlt\ship.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\Documents\halite\Halite-III\starter_kits\C++\hlt\command.hpp">
+    <ClInclude Include="hlt\command.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\Documents\halite\Halite-III\starter_kits\C++\hlt\constants.hpp">
+    <ClInclude Include="hlt\constants.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\Documents\halite\Halite-III\starter_kits\C++\hlt\direction.hpp">
+    <ClInclude Include="hlt\direction.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\Documents\halite\Halite-III\starter_kits\C++\hlt\dropoff.hpp">
+    <ClInclude Include="hlt\dropoff.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\Documents\halite\Halite-III\starter_kits\C++\hlt\entity.hpp">
+    <ClInclude Include="hlt\entity.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\Documents\halite\Halite-III\starter_kits\C++\hlt\game.hpp">
+    <ClInclude Include="hlt\game.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\Documents\halite\Halite-III\starter_kits\C++\hlt\game_map.hpp">
+    <ClInclude Include="hlt\game_map.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\Documents\halite\Halite-III\starter_kits\C++\hlt\input.hpp">
+    <ClInclude Include="hlt\input.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\Documents\halite\Halite-III\starter_kits\C++\hlt\log.hpp">
+    <ClInclude Include="hlt\log.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\Documents\halite\Halite-III\starter_kits\C++\hlt\map_cell.hpp">
+    <ClInclude Include="hlt\map_cell.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\Documents\halite\Halite-III\starter_kits\C++\hlt\player.hpp">
+    <ClInclude Include="hlt\player.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\Documents\halite\Halite-III\starter_kits\C++\hlt\position.hpp">
+    <ClInclude Include="hlt\position.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\Documents\halite\Halite-III\starter_kits\C++\hlt\ship.hpp">
+    <ClInclude Include="hlt\ship.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\Documents\halite\Halite-III\starter_kits\C++\hlt\shipyard.hpp">
+    <ClInclude Include="hlt\shipyard.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\Documents\halite\Halite-III\starter_kits\C++\hlt\types.hpp">
+    <ClInclude Include="hlt\types.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
