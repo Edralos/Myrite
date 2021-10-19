@@ -73,7 +73,7 @@
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <LinkIncremental>true</LinkIncremental>
-    <IncludePath>C:\Users\Prysm#\Documents\halite\Halite-III\starter_kits\C++\hlt;$(IncludePath)</IncludePath>
+    <IncludePath>C:\Users\Prysm#\Documents\IA_PROJET\Myrite\Myrite\hlt;$(IncludePath)</IncludePath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <LinkIncremental>false</LinkIncremental>
