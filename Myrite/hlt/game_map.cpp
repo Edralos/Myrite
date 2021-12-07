@@ -1,5 +1,6 @@
 #include "game_map.hpp"
 #include "input.hpp"
+#include <algorithm>
 
 void hlt::GameMap::_update() {
     for (int y = 0; y < height; ++y) {
