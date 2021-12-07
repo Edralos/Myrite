@@ -12,7 +12,7 @@ const float THRESHOLD = 0.2;
 
 
 
-
+//Scan de la map et de la quantité d'halite de chaque case
 MapCell MaxQuartile(GameMap map, Position* base, float threshold) {
 
 	MapCell* max = nullptr;
@@ -97,6 +97,7 @@ int main(int argc, char* argv[]) {
 			shared_ptr<Ship> ship = ship_iterator.second;
 			int rd = rng() % 2;
 
+			//Si quantité d'halite du ship encore inferieure à 70%
 			if (ship->halite < constants::MAX_HALITE * 0.7)
 			{
 				if (game_map->at(ship)->halite > max.halite * 0.2 || game_map->at(ship)->halite * 0.10 > ship->halite)
@@ -137,6 +138,7 @@ int main(int argc, char* argv[]) {
 					command_queue.push_back(ship->stay_still());
 				
 			}
+			//Si non retour à la base
 			else
 			{
 				if (game_map->at(ship)->halite * 0.10 > ship->halite)
@@ -161,6 +163,7 @@ int main(int argc, char* argv[]) {
 
 		}
 
+		//Generation des ships
 		if (
 			game.turn_number <= 200 &&
 			me->halite >= constants::SHIP_COST &&
